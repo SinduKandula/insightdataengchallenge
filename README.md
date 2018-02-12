@@ -1,5 +1,5 @@
 # insightdataengchallenge
-
+Used Python for this challenge.
 Summary of my approach:
 1. Read records from the input file and each record was split on pipe and checked for validity.
 2. Checked if the name and zipcode was repeated or not by using HashSet. If it was repeated then it would be considered a repeat donor.
